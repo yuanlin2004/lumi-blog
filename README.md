@@ -1,4 +1,4 @@
-![](assets/lumi-logo.png | width=50%)
+<img src="assets/lumi-logo.png" width="200" />
 
 ## What is `lumi`?
 
