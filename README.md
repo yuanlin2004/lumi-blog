@@ -1,6 +1,4 @@
-<div align="center">
-  <p><img src="/assets/lumi-logo.png"/></p>
-</div>
+![](assets/lumi-logo.png | width=50%)
 
 ## What is `lumi`?
 
