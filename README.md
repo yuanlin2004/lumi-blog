@@ -10,6 +10,6 @@
 
 The project consists of two components 
 1. a code and document [repo](https://github.com/yuanlin2004/lumi), some may find the change history useful too.
-2. a [blog series](yuanlin2004.github.io/lumi-blog) which tell stories, lessons and learnings that cannot be easily conveyed by code and documents. 
+2. a [blog series](https://yuanlin2004.github.io/lumi-blog) which tell stories, lessons and learnings that cannot be easily conveyed by code and documents. 
 
 
