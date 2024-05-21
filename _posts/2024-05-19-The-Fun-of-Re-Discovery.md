@@ -14,11 +14,11 @@ As a Steinway maker sometimes dreams of being Chopin, I started`lumi` - a hands-
 
 The goal of `llama-np.py` was to perform inference of non-trivial language models at usable speed on my home PC.  For example, it should be able to handle inference for Llama-2-7B. I figured that 7 seconds per generated word would be tolerable. (It is not as I learnt.)
 
-`llama-np.py` is being developed in the [open](https://github.com/yuanlin2004/lumi/tree/main/llama-np). Along with the code repository, I'd like to share my experiences and learnings, hence this blog series. 
+`llama-np.py` is being developed in the open on [github](https://github.com/yuanlin2004/lumi/tree/main/llama-np). Along with the code repository, I'd like to share my experiences and learnings, hence this blog series. 
 
 `llama-np.py` was originally written in `numpy` as it was the starting point for many DL frameworks, such as Theano, Chainer, MXNet, PyTorch and JAX. Initially, I did not include using GPU as a must-have since I thought it would be just a performance bonus. However, I couldn't resist, and now `llama-np.py` can run on GPU via `cupy`. 
 
-[Currently](https://github.com/yuanlin2004/lumi/tree/84b3832169e9b7ef4f1feaf9680bfba8acaff964), `llama-np.py` can perform llama-3-8B inference in fp32 at approximately 1.2 tokens per second (tok/s) on CPU and 2.24 tok/s on GPU, measured on my gaming PC circa 2023 (AMD Ryzen 7700x CPU with over 32GB RAM and a RTX 4070 GPU). To put this speed in perspective, [`llama.cpp`](https://github.com/ggerganov/llama.cpp) can perform Llama-3-8B inference at 10 tok/s, with 8 bit quantization. While `llama-np.py` is not the fastest, it is a very usable and provides me with the foundation needed for further exploration. 
+[Currently @84b3832](https://github.com/yuanlin2004/lumi/tree/84b3832169e9b7ef4f1feaf9680bfba8acaff964), `llama-np.py` can perform llama-3-8B inference in fp32 at approximately 1.2 tokens per second (tok/s) on CPU and 2.24 tok/s on GPU, measured on my gaming PC circa 2023 (AMD Ryzen 7700x CPU with over 32GB RAM and a RTX 4070 GPU). To put this speed in perspective, Georgi Gerganov's excellent [`llama.cpp`](https://github.com/ggerganov/llama.cpp) can perform Llama-3-8B inference at 10 tok/s, with 8 bit quantization. While `llama-np.py` is not the fastest, it is a very usable and provides me with the foundation needed for further exploration. 
 
 ## The *Flow* Approach to Learn and Explore
 
