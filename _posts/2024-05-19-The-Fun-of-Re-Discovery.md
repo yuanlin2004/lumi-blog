@@ -5,7 +5,7 @@ date: 2024-05-19
 excerpt: "Start"
 ---
 
-<img src="/assets/q_proj.png" width="100%" />
+<img src="/lumi-blog/assets/q_proj.png" width="100%" />
 (part of the q_proj weight)
 
 ## About `llama-np.py` and this blog series
@@ -27,7 +27,7 @@ Deep Learning is evolving at such a rapid pace that staying updated can easily c
 > I hear and I forget. I see and I remember. I do and I understand.
 
 
-<img style="float:right;" src="/assets/flow-book.jpg" width=100 />
+<img style="float:right;" src="/lumi-blog/assets/flow-book.jpg" width=100 />
 I decided to adopt what I call the *flow* approach, inspired by the book [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/ref=sr_1_3?crid=5XIY2GV41XIN&dib=eyJ2IjoiMSJ9._j0mDkxa26hiBFJ4Ve5Ommk6ozi_XUDEz4d-VccaspAoaYRO1LG-SF_cIUIWRVQbMF-67hQuuM26EQgwXRK8aP2X_U1wMgHj7NKQo4QAbvrDTd5PiyVOB-2VBz5RMICu9tqBRv266nmTZTJxw4_MfXhQsyJwLJBxJ2wRdLOXz0_ArF6NTwscZjWfzV6nLf56zZWsH4GHHT6BX2QnXwkySXwTC5q9f9moRmGiL7-fego.2JwyR2EhPL20L3tMeB_gkSKTivJsl0HJUWHftSFEQ4s&dib_tag=se&keywords=flow&qid=1716268345&sprefix=flow%2Caps%2C183&sr=8-3) by Mihaly Csikszentmihalyi. It creates immersive, focused activities for me. I read just enough to get started and explore on my own, guided by my curiosity and interests. This is not the best approach to any work project, but for me, the fun is in the exploration. And since I was quite behind, I figured that if I were really blocked I would just search or GPT it up. It is like solving a puzzle with a cheat sheet in my pocket. 
 
 With this in mind, I embarked on my journey. It was just what I expected: frustratingly fun! 
