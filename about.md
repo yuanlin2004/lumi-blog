@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-`lumi` is an umbrella project that I use to teach myself the basics of deep learning and explore new ideas. Just for fun.
+`lumi` is an umbrella project that I use to teach myself the fundamentals of deep learning and explore new ideas. Just for fun.
 
 > I hear and I forget. I see and I remember. I do and I understand.
 
