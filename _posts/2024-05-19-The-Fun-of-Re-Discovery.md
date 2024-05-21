@@ -5,7 +5,7 @@ date: 2024-05-19
 excerpt: "Start"
 ---
 
-<img src="assets/q_proj.png" width="100%" />
+<img src="/assets/q_proj.png" width="100%" />
 (part of the q_proj weight)
 
 ## About `llama-np.py` and this blog series
