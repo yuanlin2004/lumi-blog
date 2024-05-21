@@ -10,7 +10,7 @@ excerpt: "Start"
 
 ## About `llama-np.py` and this blog series
 
-As a Steinway maker sometimes dreams of being Chopin, I started`lumi` - a hands-on hobby project to teach myself the fundamentals of deep learning and explore new ideas. For fun and total flexibility, I want to build a deep learning (DL) stack myself. `llama-np.py` is the first baby step in this journey. 
+As a Steinway maker sometimes dreams of being Chopin, I started [`lumi`](https://github.com/yuanlin2004/lumi) - a hands-on hobby [project](https://github.com/yuanlin2004/lumi) to teach myself the fundamentals of deep learning and explore new ideas. For fun and total flexibility, I want to build a deep learning (DL) stack myself. `llama-np.py` is the first baby step in this journey. 
 
 The goal of `llama-np.py` was to perform inference of non-trivial language models at usable speed on my home PC.  For example, it should be able to handle inference for Llama-2-7B. I figured that 7 seconds per generated word would be tolerable. (It is not as I learnt.)
 
