@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "llama-np.py (1): The Fun of Re-discovery"
+title: "llama-np.py (1): the fun of re-discovery"
 date: 2024-05-19
 image: "/assets/q_proj.png"
 excerpt: "Start"
