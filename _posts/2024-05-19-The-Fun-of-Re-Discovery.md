@@ -40,7 +40,7 @@ Looking back, the development went roughly through four phases.
 4. Speed: CPU and GPU performance tuning 
 
 I will cover the four phases in the upcoming posts,
-- [Bring up]({% post_url 2024-05-27-bringup %})
-- [Beef up]({% post_url 2024-05-28-beefup %})
-- [Speed up]({% post_url 2024-05-29-speedup %})
+- [Bring up]({{ site.baseurl }}{% post_url 2024-05-27-bringup %})
+- [Beef up]({{ site.baseurl }}{% post_url 2024-05-28-beefup %})
+- [Speed up]({{ site.baseurl }}{% post_url 2024-05-29-speedup %})
 
